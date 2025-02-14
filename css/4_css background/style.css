@@ -1,0 +1,51 @@
+
+.box{
+	border:1px solid red;
+	width:100%;
+	height:100vh;
+	
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+}
+		.box1{
+			background:url("https://cdn.pixabay.com/photo/2023/02/01/10/37/sunset-7760143_1280.jpg"),#140e0e70;
+			background-blend-mode:overlay;
+			background-size:cover;
+			background-repeat:no-repeat;
+			
+			
+		}
+
+
+			
+		.box2{
+			background:url("https://cdn.pixabay.com/photo/2023/03/14/23/54/darling-7853377_960_720.jpg"),#0080341f;
+			background-blend-mode:overlay;
+			background-size:cover;
+			background-size:cover;
+			background-repeat:no-repeat;
+			
+			}
+			
+			.box3{
+			background:url("https://cdn.pixabay.com/photo/2019/04/10/23/51/animal-4118585_1280.jpg"),#18180999;
+			background-blend-mode:overlay;
+			background-size:cover;
+			background-repeat:no-repeat;
+			}
+			.box4{
+			background:url("https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/SF90-Stradale/7858/1591619661237/front-left-side-47.jpg?tr=w-664"),#18180999;
+			background-blend-mode:overlay;
+			background-size:cover;
+			background-repeat:no-repeat;
+			
+			}
+			.box5{
+			background:url("https://cdn.pixabay.com/photo/2023/04/16/09/49/waterfall-7929685_960_720.jpg"),#18180999;
+			background-blend-mode:overlay;
+			background-size:cover;
+			background-repeat:no-repeat;
+			
+			}

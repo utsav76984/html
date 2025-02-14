@@ -1,0 +1,58 @@
+
+body {
+  background-color: #5e5d65f7;
+}
+
+
+
+
+
+
+*{
+	box-sizing:border-box;
+
+}
+
+.box1{
+	
+	width:150px;
+	height:150px;
+	background-color:#999090;
+	float:left;
+	font-size:60px;
+	text-align:center;
+	line-height:150px;
+	border-radius:15px;
+	
+	}
+
+.box2{
+	
+	width:150px;
+	height:150px;
+	background-color:#ddd;
+	float:left;
+	font-size:60px;
+	text-align:center;
+	line-height:150px;
+	border-radius:15px;
+	
+	
+}
+
+.container{
+				width:1205PX;
+				height:1050PX;
+				border:1px solid black;
+				margin:auto;
+				text-align:center;
+	
+	
+}
+
+.clear{
+			clear:both;
+	
+	
+	
+}

@@ -1,0 +1,59 @@
+.box{
+	
+		background-color:lightblue;
+		width:200;
+		height:200;
+		margin:50px;
+		font-size:50px;
+	
+	
+	
+}
+
+.box1{
+	
+	transform:rotate(40deg);
+}
+	
+.box2{
+	
+	transform:rotatex(40deg);
+	
+	}	
+.box3{
+	
+	transform:rotatey(40deg);
+	
+	}		
+	
+.box4{
+	transform:scale(1.2)
+}
+
+.box5{
+	transform:scalex(1.2)
+}
+
+.box6{
+	transform:scaley(1.2)
+}
+
+.box7{
+	transform:translate(50px)
+}
+
+
+
+.box8{
+	transform:translatey(50px)
+}
+
+.box10{
+	transform:skewX(30deg)
+}
+.box11{
+	transform:skewY(30deg)
+}
+.box12{
+	transform:skew(15deg, 15deg)
+}

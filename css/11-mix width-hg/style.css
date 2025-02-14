@@ -1,0 +1,41 @@
+.container1{
+
+			max-width:1000px;
+			border:2px solid green;
+			max-height:300PX;
+			background-color:lightgreen;
+			
+	
+	
+}
+
+.container2{
+
+			max-width:1000px;
+			border:2px solid green;
+			max-height:300PX;
+			background-color:yellow;
+			
+	
+	
+}
+
+.container3{
+
+			max-width:1000px;
+			border:2px solid green;
+			max-height:300PX;
+			background-color:yellow;
+			
+	
+	
+}
+
+.box{
+	
+	max-width:1000px;
+			border:2px solid green;
+			max-height:300PX;
+			background-color:yellow;
+			
+}

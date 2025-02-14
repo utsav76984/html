@@ -1,0 +1,58 @@
+.box{
+
+        height: 150px;
+        width: 150px;
+        border: 2px solid green;
+        background-color: bisque;
+         background-image: url("https://cdn.dribbble.com/userupload/12425939/file/original-f58af5e012f0d06f3a4ea88b872183df.png?format=webp&resize=320x240&vertical=center");
+            background-size: cover;
+}
+
+
+
+.container{
+
+    border: 1px solid green;
+    margin: 10px 0px 30px 0px;
+    display: flex;
+    max-width: 1000px;
+    min-height: 200px;
+    justify-content: end;
+
+}
+
+.j-c-center{
+    justify-content: center;
+}
+
+
+.j-c-space-between{
+
+    justify-content: space-between;
+
+}
+
+
+.j-c-space-evenly{
+    justify-content: space-evenly;
+}
+
+.j-c-space-around{
+    justify-content: space-around;
+}
+
+
+.f-d-column{
+    flex-direction: column;
+}
+
+
+.f-d-row-reverse{
+    flex-direction: row-reverse;
+}
+
+
+.a-i-end{
+    align-items: center;
+}
+

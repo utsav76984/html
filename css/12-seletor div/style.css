@@ -1,0 +1,33 @@
+.container3 > div > div{
+	color:red;
+}
+
+.container2:first-line{
+	text-decoration:underline;
+	font-weight:800
+}
+
+.para:first-letter{
+	font-size:50px
+}
+
+
+ul li:first-child{
+	background-color:orange
+}
+
+ul li:last-child{
+	background-color:orange
+}
+
+ul li:nth-child(4n){
+	background-color:lightgreen
+}
+
+/* ul li:nth-child(2n-1){ */
+	/* background-color:pink */
+/* } */
+
+/* n =1, 2 , 3 */
+/* n */
+/* nth =1, 3 , 5, 8 */
